@@ -1,5 +1,5 @@
 # Blog Card UI
-
+# Live Demo (https://ujwal282.github.io/simple-blog-card/)
 A modern, minimalistic blog card UI design built with HTML and CSS.
 This project demonstrates a responsive card layout that can be used to showcase articles or blog posts.
 
