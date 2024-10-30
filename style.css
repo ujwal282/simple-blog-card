@@ -68,8 +68,9 @@ body{
 }
 
 .blog-des{
-    margin: 20px 0px;
-    font-size: 1em;
+    margin: 12px 0px;
+    font-size: .9em;
+    font-weight: 800;
     color: hsl(0, 0%, 47%);
 }
 
@@ -82,11 +83,19 @@ body{
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    font-weight: 800;
     gap: 1rem;
 }
 
+.author-info > p{
+    font-size: 0.7em;
+    color: hsl(0, 0%, 2%);
+    font-weight: 800;
+}
 
+.author-info > img{
+    height: 30px;
+    width: 30px;
+}
 
 .outro{
     position: absolute;
